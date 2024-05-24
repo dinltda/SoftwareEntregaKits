@@ -23,7 +23,7 @@ from datetime import datetime
 from tkinter.ttk import Progressbar
 
 
-#-----------------------------------------Funcion calcular edad--------------------------------------
+#-----------------------------------------Funcion calcular edad del atleta--------------------------------------
 
 def calc_edad():
   dbconexion = {
